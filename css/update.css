@@ -1,0 +1,28 @@
+*{
+  font-family: sans-serif;
+}
+
+#navbar{
+  padding: 10px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+}
+
+header{
+  background: lightgrey;
+  color: white;
+}
+
+section{
+  background-color: steelblue;
+  color: white;
+}
+
+thead{
+  background-color: skyblue;
+  padding: 2px;
+}

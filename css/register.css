@@ -1,0 +1,21 @@
+*{
+  font-family: sans-serif;
+}
+
+#navSec a{
+  background-color: steelblue;
+  color: white;
+  padding: 5px 5px;
+  border-radius: 5px;
+
+}
+
+a{
+  text-decoration: none;
+}
+
+#navSec{
+  background-color: skyblue;
+  padding: 10px 10px;
+  max-width: auto;
+}

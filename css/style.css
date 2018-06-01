@@ -1,0 +1,56 @@
+*{
+  font-family: sans-serif;
+}
+
+#navSec{
+  background-color: lightgrey;
+  padding: 10px 10px;
+  max-width: auto;
+}
+
+#btn{
+  background: steelblue;
+  color: white;
+  border-radius: 5px;
+}
+
+#navSec a{
+  background-color: skyblue;
+  color: white;
+  padding: 5px 5px;
+}
+
+a{
+  text-decoration: none;
+}
+
+.sec{
+
+  background-color: pink;
+  color: white;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 3px;
+  padding-bottom: 2px;
+}
+
+ .table{
+  background-color: steelblue;
+  color: white;
+  padding-top: 3px;
+  border-radius: 5px;
+  width: auto;
+  height: auto;
+}
+
+#data{
+    background-color: steelblue;
+    color: white;
+    padding-top: 3px;
+    border-radius: 5px;
+    width: auto;
+    height: auto;
+}
